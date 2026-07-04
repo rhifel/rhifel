@@ -2,7 +2,7 @@
 <h3 align="left">Computer Engineering Graduate | Aspiring Network Support & NOC Engineer</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rhifel&label=Profile%20views&color=0e75b6&style=flat" alt="rhifel" />
+  <img src="https://komarev.com/ghpvc/?username=rhifel&label=Pings%20received%20%F0%9F%93%A1&color=0e75b6&style=flat" alt="rhifel" />
 </p>
 
 I'm a Computer Engineering graduate from the Philippines building hands-on skills in **Networking**, **Linux**, and **Systems Programming**. My goal isn't just to memorize configuration commands — it's to understand *why* networks are designed the way they are and how to troubleshoot them like an engineer, not a script-reader.
