@@ -74,14 +74,14 @@ Designed and implemented a small enterprise network featuring:
 
 🔗 Repository:
 
-
+[(Small Enterprise Network)](https://github.com/rhifel/Enterprise-Network)
 ---
 
 ## 📖 Latest Articles
 
 📝 Building My First Enterprise Network: Understanding VLANs Instead of Memorizing Commands
 
-![(First Blog)](https://medium.com/@rhifelmarbuscado/building-my-first-enterprise-network-understanding-vlans-instead-of-memorizing-commands-6a9ac2b78e30)
+[(Small Enterprise Network Blog)](https://medium.com/@rhifelmarbuscado/building-my-first-enterprise-network-understanding-vlans-instead-of-memorizing-commands-6a9ac2b78e30)
 
 ---
 
