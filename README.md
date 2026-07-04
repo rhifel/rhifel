@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Rhifel Mar Buscado 👋</h1>
-<h3 align="left">Aspiring Network Engineer | CCNA in Progress</h3>
+<h3 align="left">Computer Engineering Graduate | Aspiring Network Support & NOC Engineer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rhifel&label=Profile%20views&color=0e75b6&style=flat" alt="rhifel" />
